@@ -1,15 +1,15 @@
 [tool.poetry]
 name = "tic-tac-toe-python"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python implementation of the Tic-Tac-Toe game."
 authors = ["Giansimone Perrino <hello@giansimone.dev>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/giansimone/Tic-Tac-Toe-Python"
+repository = "https://github.com/giansimone/tic-tac-toe-python"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.0"
 
 
 [build-system]

@@ -116,6 +116,7 @@ class TicTacToe:
                 print('Exiting the game.')
                 for i in range(3):
                     self._draw_board()
+                    print('Thanks for playing!')
                     print('Exiting the game.' + '.' * i)
                     time.sleep(0.5)
                 self.running = False
@@ -185,7 +186,6 @@ class TicTacToe:
                 self._play_again()
 
         self._clear_screen()
-        print('Thanks for playing!')
 
 
 if __name__ == '__main__':
