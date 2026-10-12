@@ -2,7 +2,7 @@
 name = "tic-tac-toe-python"
 version = "0.1.1"
 description = "A Python implementation of the Tic-Tac-Toe game."
-authors = ["Giansimone Perrino <hello@giansimone.dev>"]
+authors = ["Giansimone Perrino <hello@giansimone.com>"]
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/giansimone/tic-tac-toe-python"
